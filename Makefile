@@ -82,7 +82,8 @@ LIB_INCLUDE = -L ./libft -lft
 # Compilateurs
 CC = cc
 #CFLAGS = -g
-CFLAGS = -Wall -Wextra -Werror -g
+# CFLAGS = -Wall -Wextra -Werror -g
+CFLAGS = -Wall -Wextra -g
 
 ##########   RULES   ##########
 
